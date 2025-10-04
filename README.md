@@ -31,15 +31,15 @@ src/
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/Suraj-12343423/tenzies.git
-cd tenzies
+git clone https://github.com/<username>/<repo>.git
+cd <repo>
 npm install
 ```
 
 Run the app locally:
 
 ```bash
-npm run dev
+npm start
 ```
 
 App will run at **[http://localhost:3000](http://localhost:3000)**
@@ -54,8 +54,12 @@ To create a production build:
 npm run build
 ```
 
+Or play the live version here:
+👉 [Tenzies on Vercel](https://tenzies-two-weld.vercel.app/)
+
 ---
 
 ## 📜 License
 
 MIT License © 2025 [Your Name]
+
